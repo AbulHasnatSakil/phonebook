@@ -1,0 +1,24 @@
+{
+    "contacts": [
+        {
+            "name": "john",
+            "phone": "01555",
+            "email": "john@example.com"
+        },
+        {
+            "name": null,
+            "phone": null,
+            "email": null
+        },
+        {
+            "name": "Hi",
+            "phone": null,
+            "email": null
+        },
+        {
+            "name": "rupok",
+            "phone": "0164",
+            "email": "rupok@gmail.com"
+        }
+    ]
+}
