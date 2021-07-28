@@ -9,6 +9,6 @@ It's an important things we use in our daily life.
     - Object Oriented programming</br>
     - Control Flow
     - File handling
-  - Json data
+  - Json
 <h1> Tools:</h1>
   - Visual Studio Code
